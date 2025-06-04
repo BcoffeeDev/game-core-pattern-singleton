@@ -60,6 +60,12 @@ Or edit `manifest.json`:
 
 ---
 
+## 🙋‍♂️ Contributing
+
+Found a bug or have a feature suggestion?  
+Feel free to [open an issue](https://github.com/BcoffeeDev/game-core-pattern-singleton/issues) or submit a pull request!  
+All contributions are welcome and appreciated.
+
 ## 📄 License
 
 MIT © 2025 [BcoffeeDev](https://github.com/BcoffeeDev)
