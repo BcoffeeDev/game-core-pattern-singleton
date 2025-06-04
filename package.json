@@ -1,0 +1,19 @@
+{
+  "name": "com.bcoffee-dev.patterns.singleton",
+  "version": "1.0.0",
+  "displayName": "SingletonPattern",
+  "description": "Provides a simple and reusable MonoBehaviour singleton base class for Unity, enabling easy singleton implementation across your game components.",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "design pattern",
+    "singleton",
+    "bcoffee"
+  ],
+  "author": {
+    "name": "BcoffeeDev",
+    "email": "bcoffee.work@gmail.com",
+    "url": ""
+  }
+}

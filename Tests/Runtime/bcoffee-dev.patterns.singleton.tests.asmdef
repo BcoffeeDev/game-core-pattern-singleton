@@ -1,0 +1,16 @@
+{
+    "name": "bcoffee-dev.patterns.singleton.tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aae2b61f26a1b4db3b794a6ac3db4aaa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

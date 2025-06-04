@@ -1,0 +1,14 @@
+{
+    "name": "bcoffee-dev.patterns.singleton",
+    "rootNamespace": "BcoffeeDev.Patterns",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
