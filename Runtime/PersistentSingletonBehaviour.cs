@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace BcoffeeDev.Patterns
 {
-    public class PersistentSingletonBehaviour<T> : MonoBehaviour where T : PersistentSingletonBehaviour<T>
+    public class PersistentSingletonBehaviour<T> : MonoBehaviour where T : MonoBehaviour
     {
         public static T Instance { get; private set; }
 
